@@ -1,5 +1,6 @@
-### Hi there 👋
+## Howdy, I'm **Dustin**.
 
+[My Website](https://dustinp.me)
 <!--
 **kirigaine/kirigaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+I'm **27** years old.
+I'm currently heavily into weightlifting and fitness.
+
+Looking to improve myself daily. Some areas include:
+ - Transition into my dream field
+ - Improve my health
+ - Greater discipline
+ - Minimize wasted time
+
