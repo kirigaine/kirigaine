@@ -17,12 +17,22 @@ Here are some ideas to get you started:
 -->
 
 ---
-I'm **27** years old.
-I'm currently heavily into weightlifting and fitness.
+I'm **27** years old and currently a Dairy Manager.
 
-Looking to improve myself daily. Some areas include:
+## Active Projects:
+- [YouTube Shield](https://github.com/kirigaine/YouTube-Shield)
+
+## Interests:
+- 💪 Weightlifting/Fitness 
+- 🥚 Nutrition 
+- 💾 Vintage Technology 
+- 🔓 Open Source Software 
+- 🏴‍☠️ Modding 
+- 🖖 Friends and Family 
+
+## Looking to improve myself daily. Some areas include:
  - Transition into my dream field
  - Improve my health
  - Greater discipline
- - Minimize wasted time
+ - Time balance
 
