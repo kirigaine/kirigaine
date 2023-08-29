@@ -36,3 +36,5 @@ I'm **27** years old and currently a Dairy Manager.
  - Greater discipline
  - Time balance
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirigaine&show_icons=true&theme=dark)
+
