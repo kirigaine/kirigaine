@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 -->
 
 ---
-I'm **27** years old and currently a Dairy Manager.
+I'm **27** years old and currently a Receiving Manager.
 
 ## Active Projects:
 - [YouTube Shield](https://github.com/kirigaine/YouTube-Shield)
+- Sound is my Only Navigator
 
 ## Interests:
 - 💪 Weightlifting/Fitness 
