@@ -21,6 +21,7 @@ I'm **27** years old and currently a Receiving Manager.
 
 ## Active Projects:
 - [YouTube Shield](https://github.com/kirigaine/YouTube-Shield)
+- Various bash scripts
 - Sound is my Only Navigator
 
 ## Interests:
