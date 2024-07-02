@@ -1,6 +1,6 @@
 ## Howdy, I'm **Dustin**.
 
-[My Website](https://dustinp.me)
+[My Website](https://dustinp.me/index2.html)
 <!--
 **kirigaine/kirigaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,6 @@ I'm **27** years old and currently a Receiving Manager.
 ## Active Projects:
 - [YouTube Shield](https://github.com/kirigaine/YouTube-Shield)
 - Various bash scripts
-- Sound is my Only Navigator
 
 ## Interests:
 - 💪 Weightlifting/Fitness 
