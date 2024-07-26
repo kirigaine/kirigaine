@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 I'm **28** years old and currently a Receiving Manager.
 
 ## Active Projects:
+- CompTIA A+ Certification
+- FCC Certifications
 - [YouTube Shield](https://github.com/kirigaine/YouTube-Shield)
-- Various bash scripts
 
 ## Interests:
 - 💪 Weightlifting/Fitness 
