@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-I'm **28** years old and currently a Receiving Manager.
+I'm **29** years old and currently in Information Services at a hospital.
 
 ## Active Projects:
 - CompTIA A+ Certification
